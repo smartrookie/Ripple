@@ -13,6 +13,7 @@
 		653234BB1EE2A6F60085484B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 653234BA1EE2A6F60085484B /* Assets.xcassets */; };
 		653234BE1EE2A6F60085484B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 653234BC1EE2A6F60085484B /* LaunchScreen.storyboard */; };
 		653234C71EE2BCC30085484B /* RippleURL.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653234C61EE2BCC30085484B /* RippleURL.swift */; };
+		657E21721EEF9886009A5078 /*  ISO4217CurrencyCodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 657E21711EEF9886009A5078 /*  ISO4217CurrencyCodes.swift */; };
 		F19093C9D7470F1B27FA3FA7 /* Pods_Ripple.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 759A24BAA31FF6BBB8E08F6C /* Pods_Ripple.framework */; };
 /* End PBXBuildFile section */
 
@@ -26,6 +27,7 @@
 		653234BD1EE2A6F60085484B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		653234BF1EE2A6F60085484B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		653234C61EE2BCC30085484B /* RippleURL.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RippleURL.swift; sourceTree = "<group>"; };
+		657E21711EEF9886009A5078 /*  ISO4217CurrencyCodes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = " ISO4217CurrencyCodes.swift"; sourceTree = "<group>"; };
 		759A24BAA31FF6BBB8E08F6C /* Pods_Ripple.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Ripple.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3BA0A265369BC380A709C4C /* Pods-Ripple.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Ripple.release.xcconfig"; path = "Pods/Target Support Files/Pods-Ripple/Pods-Ripple.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,6 +68,7 @@
 				653234B31EE2A6F60085484B /* AppDelegate.swift */,
 				653234B51EE2A6F60085484B /* ViewController.swift */,
 				653234C61EE2BCC30085484B /* RippleURL.swift */,
+				657E21711EEF9886009A5078 /*  ISO4217CurrencyCodes.swift */,
 				653234B71EE2A6F60085484B /* Main.storyboard */,
 				653234BA1EE2A6F60085484B /* Assets.xcassets */,
 				653234BC1EE2A6F60085484B /* LaunchScreen.storyboard */,
@@ -215,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				657E21721EEF9886009A5078 /*  ISO4217CurrencyCodes.swift in Sources */,
 				653234C71EE2BCC30085484B /* RippleURL.swift in Sources */,
 				653234B61EE2A6F60085484B /* ViewController.swift in Sources */,
 				653234B41EE2A6F60085484B /* AppDelegate.swift in Sources */,
